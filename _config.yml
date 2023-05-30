@@ -12,4 +12,4 @@ github_username:  tdupoiron # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
